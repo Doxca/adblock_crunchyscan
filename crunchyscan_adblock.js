@@ -2,7 +2,7 @@
 // @name         adblock crunchyscan
 // @version      0.47
 // @description  yup, qu'ils ailles se faire foutre
-// @author       Enderty
+// @author       Doxca
 // @match        https://crunchyscan.fr/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAaAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
